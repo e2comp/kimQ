@@ -122,7 +122,7 @@
   <section id="blog">
     <h2>MY BLOG</h2>
     <p>Understanding Malware and Computer Security</p>
-    <img src="your_image_url_here.jpg" alt="Security Image" style="width:100%; height:auto;"/>
+    <img src="Messenger_creation_3F55F75A-D9B7-4429-BDA0-DCFB52B53126.jpeg" alt="Security Image" style="width:100%; height:auto;"/>
     <table>
       <tr>
         <th>Term</th>
